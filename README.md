@@ -1,1 +1,2 @@
-# react-project-1
+# GPT-3
+### Live project (here)[https://astounding-pegasus-fec974.netlify.app/]
